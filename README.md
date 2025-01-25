@@ -14,9 +14,13 @@ Check out the gameplay and learn more about the Button Game here:
 1. **Clone the repository:**  
    ```bash  
    git clone https://github.com/yourusername/button-game.git  
-## ✨ Those Who Made the Project  
-- 🌟 **Umut Yılmaz**  
-- 🚀 **Eren Yırtıcı**  
-- 🎨 **Fuad Saffetoğlu**  
-- 💡 **Cemanur Adıgüzel**  
+## 👥 Contributors  
+
+Thanks to everyone who contributed to this project!  
+
+- 🌟 **[Umut Yılmaz](https://github.com/UMUTYILMAZ06)**  
+- 🚀 **[Eren Yırtıcı](https://github.com/erenyirtici)**  
+- 🎨 **[Fuad Saffetoğlu](https://github.com/fuads23)**  
+- 💡 **[Cemanur Adıgüzel](https://github.com/Cemanuradiguzel)**  
+
 
